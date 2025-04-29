@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "Matrix",
+        "ano": 1980,
+        "descrição": "Matrix é um filme de ficção"
+    },
+    {
+        "titulo": "Batman",
+        "ano": 1980,
+        "descrição": "Batman é um filme..."
+    },
+    {
+        "titulo": "Superman",
+        "ano": 1980,
+        "descrição": "Superman é um filme..."
+    },
+    {
+        "titulo": "The Lord of the Rings",
+        "ano": 1980,
+        "descrição": "The Lord of Rings é um filme..."
+    }
+]
